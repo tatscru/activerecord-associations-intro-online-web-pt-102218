@@ -1,4 +1,4 @@
-# Active Record Associations Introduction: Playlister
+rake db:migrate# Active Record Associations Introduction: Playlister
 
 ## Objectives
 
